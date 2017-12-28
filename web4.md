@@ -1,4 +1,4 @@
-# Web4 - Integration Instructions
+# Web4
 
 The easiest way to integrate our menus is to use a default configuration, then fine tune the appearance using our ThemeRoller helper tool.
 
