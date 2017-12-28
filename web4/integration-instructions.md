@@ -18,7 +18,7 @@ Legend
 
 Integration code
 
-```
+```html
 <div id='zuppler-menu'
   data-channel-url='http://api.zuppler.com/v3/channels/demorestaurant.json'
   data-integration='site'
@@ -33,10 +33,10 @@ Integration code
   data-fonts-heading='Open Sans Condensed, helvetica, sans-serif'
   data-fonts-body='Raleway, helvetica, sans-serif'
   data-fonts-deco='Montserrat, helvetica, sans-serif'>
-
-<div id='zloading'>Please wait. Loading menu...</div>
-
+  
+  <div id='zloading'>Please wait. Loading menu...</div>
 </div>
+
 <script src='//web4.zuppler.com/common.js'></script>
 <script src='//web4.zuppler.com/order.js'></script>
 ```
