@@ -1,20 +1,14 @@
 # Sample Theme A
 
-![](/assets/themeA-menu@2x.jpg)
-
-_Menu screen_
-
-![](/assets/themeA-cart@2x.jpg)
-
-_Cart Screen_
+![](/assets/themeA-menu@2x.jpg)![](/assets/themeA-cart@2x.jpg)
 
 ![](/assets/themeA-modal.jpg)
 
-_Modal_
+
 
 ![](/assets/themeA-colors.jpg)
 
-_Legend_
+
 
 **Integration code**
 

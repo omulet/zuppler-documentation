@@ -14,7 +14,7 @@ Modify colors and fonts. Once you're happy with the result, click on "**SHOW COD
 
 ## Colors {#colors}
 
-Check the sample [Theme A](/web4/sample-theme-A.md) and [Theme B](/web4/sample-theme-b.md) to better visualize the relationship between our colors.
+Check the samples [Theme A](/web4/sample-theme-A.md) and [Theme B](/web4/sample-theme-b.md) to better visualize the relationship between our colors.
 
 * [background](#background-color)
 * [highContrast](#highcontrast-color)
