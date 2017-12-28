@@ -2,4 +2,4 @@
 
 Color configuration
 
-<img src="/assets/themeA-colors@2x.jpg" width="210" height="306" />
+![](/assets/themeA-colors@2x.jpg =210x306)
