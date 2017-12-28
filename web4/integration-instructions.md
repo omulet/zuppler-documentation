@@ -49,14 +49,14 @@ However, there is a big chance you want to change the colors because the default
 
 ## A few notes
 
-* The mark-up should be placed inside a container element, such as `<div class="my_content">...`**`paste here`**`...</div>`, and this element should be at least 960px wide on desktop. Ideally, a full width \(100% wide\) responsive container works best.
+* The mark-up should be placed inside a container element, such as `<div class="my_content">...paste here...</div>`, and this element should be at least 960px wide on desktop. Ideally, a full width \(100% wide\) responsive container works best.
 
-* You can make the order online page to load even faster if you prefetch the Zuppler assets and we strongly recommend doing so. Add the following code somewhere inside the `<head>` tag on your homepage, or on your global header partial in case you use one. 
+* You can make the order online page to load even faster if you prefetch the Zuppler assets and we strongly recommend doing so. Add the following code somewhere inside the `<head>` tag on your homepage, or on your global header partial in case you use one.
 
 ```html
 <head>
     <!-- ... -->
-    
+
     <link rel="prefetch" href="//web4.zuppler.com/common.js"/>
     <link rel="prefetch" href="//web4.zuppler.com/order.js"/>
 </head>
