@@ -2,19 +2,9 @@
 
 ![](/assets/themeB-menu@2x.jpg)
 
-_Menu screen_
-
 ![](/assets/themeB-cart@2x.jpg)
 
-_Cart Screen_
-
-![](/assets/themeB-modal.jpg)
-
-_Modal_
-
-![](/assets/themeB-colors.jpg)
-
-_Legend_
+![](/assets/themeB-modal.jpg) ![](/assets/themeB-colors.jpg)
 
 **Integration code**
 

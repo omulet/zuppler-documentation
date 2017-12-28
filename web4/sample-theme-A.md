@@ -1,14 +1,10 @@
 # Sample Theme A
 
-![](/assets/themeA-menu@2x.jpg)![](/assets/themeA-cart@2x.jpg)
+![](/assets/themeA-menu@2x.jpg)
 
-![](/assets/themeA-modal.jpg)
+![](/assets/themeA-cart@2x.jpg)
 
-
-
-![](/assets/themeA-colors.jpg)
-
-
+![](/assets/themeA-modal.jpg) ![](/assets/themeA-colors.jpg)
 
 **Integration code**
 
