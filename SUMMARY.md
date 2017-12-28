@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Web4](chapter1.md)
-  * [Integration Instructions](chapter1/integration-instructions.md)
+* [Web4](web4.md)
+  * [Sample Theme A](web4/integration-instructions.md)
 
