@@ -1,22 +1,22 @@
 # Sample Theme A
 
-Menu screen
-
 ![](/assets/themeA-menu.jpg)
 
-Cart Screen
+_Menu screen_
 
 ![](/assets/themeA-cart.jpg)
 
-Modal
+_Cart Screen_
 
 ![](/assets/themeA-modal.jpg)
 
-Legend
+_Modal_
 
 ![](/assets/themeA-colors.jpg)
 
-Integration code
+_Legend_
+
+**Integration code**
 
 ```html
 <div id='zuppler-menu'
@@ -33,7 +33,7 @@ Integration code
   data-fonts-heading='Open Sans Condensed, helvetica, sans-serif'
   data-fonts-body='Raleway, helvetica, sans-serif'
   data-fonts-deco='Montserrat, helvetica, sans-serif'>
-  
+
   <div id='zloading'>Please wait. Loading menu...</div>
 </div>
 

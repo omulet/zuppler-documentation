@@ -1,4 +1,4 @@
-# Zuppler Help
+# About Zuppler
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Let customers Order Food Online for Carryout, Catering, Dine In or Delivery. Zuppler Powered Menus make online ordering easy. Our menus are high-tech, feature packed with a clean design and come with full service and support.
 
