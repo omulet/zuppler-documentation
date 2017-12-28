@@ -1,6 +1,0 @@
-# Advanced configuration
-
-
-
-
-

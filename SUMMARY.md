@@ -6,6 +6,6 @@
   * [The ThemeRoller](web4/the-themeroller.md)
   * [Sample Theme A](web4/sample-theme-A.md)
   * [Sample Theme B](web4/sample-theme-b.md)
-  * [Advanced configuration](web4/advanced-configuration.md)
-  * Troubleshooting
+  * [Advanced customization](web4/advanced-customization.md)
+  * [Troubleshooting](web4/troubleshooting.md)
 
