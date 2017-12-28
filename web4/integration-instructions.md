@@ -2,5 +2,7 @@
 
 Color configuration
 
-![](/assets/theme A - colors.jpg)
+![](/assets/themeA-colors@2x.jpg)
+
+
 
