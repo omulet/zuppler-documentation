@@ -8,7 +8,7 @@ Create a separate HTML page and set the appropriate title, let's say "Order Onli
 
 ### Step 2
 
-Edit this page and remove the existing content \(if present\). Only keep the usual components, like the page header with your logo, main navigation, page title, footer, etc. 
+Edit this page and remove the existing content \(if present\). Only keep the usual components, like the page header with your logo, main navigation, page title, footer, etc.
 
 Copy the following markup and paste it into your newly created page.
 
@@ -43,9 +43,7 @@ At this point, we assume that your Zuppler Account Manager already provided you 
 
 ### Step 3
 
-Save, and visit the page using your favorite internet browser. You should now have a fully functional Order Online page. 
+Save, and visit the page using your favorite internet browser. Congrats!! 🍾🎉 You should now have a fully functional Order Online page.
 
-However, there is a big chance you want to change the colors because the defaults doesn't really match. Great, let's activate the ThemeRoller now by adding `?themeRoller=true` param at the and of the page address. E.g. If the current page address is http://myrestaurant.com/order-online.html then it should be http://myrestaurant.com/order-online.html?themeRoller=true
-
-
+However, there is a big chance you want to change the colors because the defaults doesn't really match with the look & feel of your page.  Read on to the ThemeRoller instructions.
 
