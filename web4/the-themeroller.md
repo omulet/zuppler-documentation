@@ -6,9 +6,43 @@ Once the page reloads, you should see this ![](/assets/themeroller-button.png) o
 
 ![](/assets/themeroller@2x.png)
 
-The changes you will be doing here are **NOT persistent**. So if you refresh the page they will be gone. All this tool does is to let you preview colors and fonts changes in real time and most important to generate a new integration code base on these changes. 
+The changes you will be doing here are **NOT persistent**. So if you refresh the page they will be gone. All this tool does is to let you preview colors and fonts changes in real time and most important to generate a new integration code base on these changes.
+
+## Colors
+
+* [background](#background-color)
+* [highContrast](#highcontrast-color)
+* [midContrast](#midcontrast-color)
+* [lowContrast](#lowcontrast-color)
+* [brand](#brand-color)
+* [heroBackground](#herobackground-color)
+* [heroContrast](#herocontrast-color)
 
 
+
+### background {#background-color}
+
+This color should match the actual background color of your page or of the box in which the menu gets rendered. 
+
+> For best results it is very important to set this color as close as possible with **the color perceived by human eye**. One common case to pay attention is when there is a background image behind, with a semi-transparent box above. You may be tempted to use the same css color with your box, eg. white with 60% opacity, but the result won't be optimal. Use the eyedropper to pick the right color instead.
+
+It is used by the system to generate lighter and darker shades for different components and also to set the text color for "color reversed" components, such as the cart dropdown.
+
+### highContrast {#highcontrast-color}
+
+As the name suggests, the High Contrast Color should have the highest contrast possible with the [background](#background-color).
+
+It is used to draw attention to important elements, such as active menu tabs, category names, item title and prices, etc.
+
+### midContrast {#midcontrast-color}
+
+### lowContrast {#lowcontrast-color}
+
+### brand {#brand-color}
+
+### heroBackground {#herobackground-color}
+
+### heroContrast {#herocontrast-color}
 
 
 
