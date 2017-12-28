@@ -45,5 +45,5 @@ At this point, we assume that your Zuppler Account Manager already provided you 
 
 Save, and visit the page using your favorite internet browser. Congrats!! 🍾🎉 You should now have a fully functional Order Online page.
 
-However, there is a big chance you want to change the colors because the defaults doesn't really match with the look & feel of your page.  Read on to the ThemeRoller instructions.
+However, there is a big chance you want to change the colors because the defaults doesn't really match with the look & feel of your page.  Read on to [The ThemeRoller](/web4/the-themeroller.md) instructions.
 
