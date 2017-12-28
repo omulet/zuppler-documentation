@@ -1,10 +1,10 @@
 # Sample Theme A
 
-![](/assets/themeA-menu.jpg)
+![](/assets/themeA-menu@2x.jpg)
 
 _Menu screen_
 
-![](/assets/themeA-cart.jpg)
+![](/assets/themeA-cart@2x.jpg)
 
 _Cart Screen_
 

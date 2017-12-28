@@ -6,9 +6,13 @@ Once the page reloads, you should see this ![](/assets/themeroller-button.png) o
 
 ![](/assets/themeroller@2x.png)
 
-The changes you will be doing here are **NOT persistent**. So if you refresh the page they will be gone. All this tool does is to let you preview colors and fonts changes in real time and most important to generate a new integration code base on these changes.
+The changes you will be doing here are **NOT persistent**. So if you refresh the page they will be gone. What this tool does is to let you preview colors and fonts changes in real time and most important to generate a new integration code base on these changes.
 
-## Colors
+## Making changes
+
+Modify colors and fonts. Once you're happy with the result, click on "**SHOW CODE**" and copy the result to clipboard. Paste it to replace the previous integration code on your page. See [Integration Instructions](//web4/integration-instructions.md) for more information about this code.
+
+## Colors {#colors}
 
 * [background](#background-color)
 * [highContrast](#highcontrast-color)
