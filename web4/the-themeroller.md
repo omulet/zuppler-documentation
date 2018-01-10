@@ -1,6 +1,8 @@
 # The ThemeRoller
 
-Is a little neat tool that lets you easily find the perfect colors for your menus with real time preview. To activate it, append the `?themeRoller=true` param at the and of the URL. E.g. If the current page address is [http://demo.zuppler.com/order-online-new.html](http://demo.zuppler.com/order-online-new.html) then it changes to [http://demo.zuppler.com/order-online-new.html**?themeRoller=true**](http://demo.zuppler.com/order-online-new.html?themeRoller=true).
+Is a little neat tool that lets you easily find the perfect colors for your menus with real time preview. To activate it, append the `?themeRoller=true` param at the and of the URL. E.g. If the current page address is [http://demo.zuppler.com/order-online-new.html](http://demo.zuppler.com/order-online-new.html) then it changes to [http://demo.zuppler.com/order-online-new.html**?themeRoller=true**](http://demo.zuppler.com/order-online-new.html?themeRoller=true). 
+
+> Note. The feature won't enable if you accidentally add the param in location hash part of your URL. So make sure there is no \# in the address before the param. Wrong: `http://yourdomain.com/order-online/#/start?themeRoller=true`. Good: `http://yourdomain.com/order-online/?themeRoller=true`
 
 Once the page reloads, you should see this ![](/assets/themeroller-button.png) on the right hand side bottom corner. Click to expand the tool.
 
